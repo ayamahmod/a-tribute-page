@@ -1,0 +1,1 @@
+$('body').attr("data-spy", "scroll").attr("data-target", ".navbar").attr("data-offset", "50");
