@@ -1,2 +1,2 @@
 # freeCodeCamp
-The necessary projects for freeCodeCamp certificates.
+The necessary projects for freeCodeCamp frontend certificate.
